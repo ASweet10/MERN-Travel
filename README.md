@@ -1,1 +1,2 @@
-# MERN-Travel
+# MERN Travel App
+ 
